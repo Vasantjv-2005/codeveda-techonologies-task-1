@@ -17,6 +17,8 @@ This project is a simple single-page application (SPA) built with modern web tec
 ### Installation
 ```bash
 npm install
+or npm install --legacy-peer-deps
+
 ```
 
 ### Running the Development Server
